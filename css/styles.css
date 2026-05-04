@@ -1,0 +1,43 @@
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 90px;
+    font-size: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.nav-list {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    gap: 50px;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    color: #252B42;
+    text-decoration: none;
+}
+
+
+.nav-item {
+    display: flex;
+    justify-content: flex-end;
+}
