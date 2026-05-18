@@ -129,6 +129,9 @@ li {
     text-decoration: none;
 }
 
+.nav-link:hover {
+    color: #FA4A0C;
+}
 
 .nav-item {
     display: flex;
